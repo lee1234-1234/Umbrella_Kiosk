@@ -1,3 +1,5 @@
+
+<img width="416" height="749" alt="6d60002e-00ae-4fc4-b695-af80f892539b" src="https://github.com/user-attachments/assets/4de5e36d-319f-4b08-afcc-f065cbae22c4" />
 # ⛱️ 스마트 공유 우산 플랫폼 (Smart Umbrella Sharing Platform)
 > **IoT 기반의 지능형 우산 대여·반납 및 통합 관리 시스템**
 
@@ -14,7 +16,8 @@
 ---
 
 ## 🏗️ Hardware Architecture
-시스템의 안정성을 위해 제어부와 구동부를 분리하여 설계하였으며, 모든 부품은 **Autodesk Fusion 360**으로 정밀 모델링되었습니다.
+시스템의 안정성을 위해 제어부와 구동부를 분리하여 설계하였으며, 모든 부품은 **Autodesk Fusion 360과 Tinkercad**로 정밀 모델링되었습니다.
+<img width="1119" height="662" alt="0295a3eb-8f6e-41d8-8328-b8a0c5afe5e7" src="https://github.com/user-attachments/assets/af3076d0-5ff8-44f2-b738-93e6a64cf4da" />
 
 ### 📍 [Explore 3D Models (CAD)](./3d_models)
 
